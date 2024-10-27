@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 
-echo "Start granian..."
 # granian {{ project_name }}.wsgi:application \
 #     --host 0.0.0.0 \
 #     --port 8000 \
